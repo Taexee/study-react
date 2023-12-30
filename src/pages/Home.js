@@ -1,6 +1,6 @@
 import React from "react";
 
-function Home() {
+const Home = () => {
   return <h1>Home화면 입니다.</h1>;
 }
 
